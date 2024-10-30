@@ -1,0 +1,231 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: LINE WP\n"
+"POT-Creation-Date: 2021-04-04 23:33+0900\n"
+"PO-Revision-Date: 2021-04-04 23:33+0900\n"
+"Last-Translator: Shohei Tanaka <cs@artws.info>\n"
+"Language-Team: Shohei Tanaka <cs@artws.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: line-wp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/admin/class-admin-setting.php:52
+#: includes/admin/class-admin-setting.php:53
+msgid "LINE Setting"
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:62
+msgid "LINE settings"
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:106
+msgid "LINE Messenger API settings"
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:112
+#: includes/admin/class-admin-setting.php:142
+msgid "Channel Secret"
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:119
+#: includes/admin/class-admin-setting.php:153
+msgid "Channel Access Token"
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:132
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:143
+#: includes/admin/class-admin-setting.php:154
+#, php-format
+msgid ""
+"But if you want to use Automatic zip code entry, you must get and input %s "
+"here."
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:173
+msgid "The Channel Access Token is incorrect."
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:178
+msgid "The Channel Secret is incorrect."
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:206
+msgid "Send LINE message"
+msgstr ""
+
+#: includes/admin/class-admin-setting.php:228
+msgid "Send a message to LINE"
+msgstr ""
+
+#: includes/class-line-wp-post-send-line.php:80
+msgid "Post Title:"
+msgstr ""
+
+#: includes/class-line-wp-post-send-line.php:92
+msgid "Sent Image to LINE."
+msgstr ""
+
+#: includes/class-line-wp-post-send-line.php:94
+msgid "Failed to send Image to LINE."
+msgstr ""
+
+#: includes/class-line-wp-post-send-line.php:102
+msgid "Sent to LINE."
+msgstr ""
+
+#: includes/class-line-wp-post-send-line.php:104
+msgid "Failed to send to LINE."
+msgstr ""
+
+#: includes/class-line-wp-post-send-line.php:138
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:21
+#, php-format
+msgid "Please check it if you want to use %s."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:22
+#, php-format
+msgid "Please check it if you want to use the payment method of %s."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:23
+#, php-format
+msgid "Please input %s."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:24
+#, php-format
+msgid "Please select one from these as %s."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:25
+msgid "Need support?"
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:26
+#, php-format
+msgid ""
+"If you are having problems with this plugin, talk about them in the <a href="
+"\"%s\" target=\"_blank\" title=\"Pro Version\">Support forum</a>."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:27
+#, php-format
+msgid ""
+"If you need professional support, please consider about <a href=\"%1$s\" "
+"target=\"_blank\" title=\"Site Construction Support service\">Site "
+"Construction Support service</a> or <a href=\"%2$s\" target=\"_blank\" title="
+"\"Maintenance Support service\">Maintenance Support service</a>."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:28
+msgid "Pro version"
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:29
+#, php-format
+msgid ""
+"The pro version is available <a href=\"%s\" target=\"_blank\" title="
+"\"Support forum\">here</a>."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:30
+msgid ""
+"The pro version includes support for bulletin boards. Please consider "
+"purchasing the pro version."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:31
+msgid "Finished Latest Update, WordPress and WooCommerce?"
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:32
+#, php-format
+msgid ""
+"One the security, latest update is the most important thing. If you need "
+"site maintenance support, please consider about <a href=\"%s\" target="
+"\"_blank\" title=\"Support forum\">Site Maintenance Support service</a>."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:33
+msgid "Where is the study group of Woocommerce in Japan?"
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:34
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" title=\"Tokyo WooCommerce Meetup\">Tokyo "
+"WooCommerce Meetup</a>."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:35
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" title=\"Kansai WooCommerce Meetup\">Kansai "
+"WooCommerce Meetup</a>."
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:36
+msgid "Join Us!"
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:37
+msgid "Created by"
+msgstr ""
+
+#: includes/jp4wc-framework/config-jp4wc-framework.php:38
+msgid "WooCommerce Doc in Japanese"
+msgstr ""
+
+#: line-wp.php:157
+#, php-format
+msgid ""
+"If you like <strong>Japanized for WooCommerce</strong> please leave us a "
+"%s&#9733;&#9733;&#9733;&#9733;&#9733;%s rating. A huge thanks in advance!"
+msgstr ""
+
+#: line-wp.php:157
+msgid "Thanks :)"
+msgstr ""
+
+#: line-wp.php:165
+msgid "Thank you for installing with Japanized for WooCommerce."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "LINE WP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/line-wp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin that integrates WordPress and LINE."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Artisan Workshop"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wc.artws.info/"
+msgstr ""
